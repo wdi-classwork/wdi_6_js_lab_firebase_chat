@@ -8,7 +8,7 @@ By the end of this, students should be able to:
 
 - integrate Firebase into a small website
 - build an instant messaging app
-- deploy to github pages branch of your repo
+- deploy to github pages branch of your repo [Github Pages](https://pages.github.com/)
 
 ## Instructions
 
