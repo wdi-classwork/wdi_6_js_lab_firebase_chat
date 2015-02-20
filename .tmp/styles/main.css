@@ -1,10 +1,10 @@
-
-/* Your Style here */
+/* line 1, ../../app/styles/main.scss */
 div#container {
   height: 600px;
   overflow: scroll;
 }
 
+/* line 6, ../../app/styles/main.scss */
 div.form-group {
   position: fixed;
   bottom: 0;
