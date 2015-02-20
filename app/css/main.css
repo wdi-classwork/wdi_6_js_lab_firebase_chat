@@ -1,1 +1,14 @@
 /* Your Style here */
+div#container {
+  height: 600px;
+  overflow: scroll;
+}
+
+div.form-group {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  padding: 20px;
+  background: #fff;
+}
